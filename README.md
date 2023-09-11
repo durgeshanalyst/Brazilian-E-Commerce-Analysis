@@ -1,4 +1,5 @@
 # Brazilian-E-Commerce-Analysis
+### Client Prob
  <a href="https://drive.google.com/file/d/1-Fv55pggi0fMRInxiDEz3gnOgb1aIeJL/view?usp=share_link">Dataset</a>
 ![image](https://user-images.githubusercontent.com/109127584/201036862-71b28382-705d-4072-a3c7-b556df1d31ce.png)
 
@@ -22,3 +23,62 @@ e. After doing the Root cause analysis, help the client by suggesting ways to im
 
 Provide your findings in an excel workbook, plot graphs & create multiple tabs as needed.
 </pre>
+
+
+## Introduction
+
+This project focuses on analyzing the sales trends of a Brazilian E-commerce store over the years 2016-2018. The client's objective is to understand how sales vary across different states and identify the reasons behind these trends. 
+
+## Dataset
+
+You can access the dataset [here](https://drive.google.com/file/d/1-Fv55pggi0fMRInxiDEz3gnOgb1aIeJL/view?usp=share_link).
+
+## Project Objectives
+
+- Create metrics like Sales, customer acquisitions, and total no. of orders for each year across different states.
+- Identify states with declining and increasing sales trends.
+- Conduct a root cause analysis for performance disparities among states.
+- Analyze the top 2 cities causing trends in each identified state.
+- Provide recommendations for improving state and city performance.
+
+## Approach
+
+- Data was processed using SQL , Power BI and Excel to extract actionable insights.
+- Collaborated with the Analyst team to predict sales trends.
+- Provided actionable recommendations for a 5% increase in sales.
+
+## Project Outcomes
+
+- Probed customers' needs and prospected products, resulting in over 250 units sold.
+- Collaborated with the Analyst team to convert data into actionable insights.
+- Advised on actionable keys to achieve a 5% increase in sales.
+
+## Usage
+
+	1. Upload all the file into SSMS or My SQL
+	2. MAke sure to upload all Data sets and change in Data type if not supported.
+	3. Use concept like Group by and CTE along with window function to get BAsic Analysis.
+	4. To get more concept will be required like views or Subquery.
+	5. Join is must in this project, You have to join atlest 4 or 5 datasets together.
+## License
+
+This project is licensed under the [Durgesh Kumar](https://github.com/durgeshanalyst).
+
+## Resources
+	1. SQL Query
+	2. Power BI
+	3. Excel Power Query
+
+## Contributors
+[Durgesh kumar](https://github.com/durgeshanalyst)
+[Kartikey baijal](https://github.com/kartikeya101)
+## Contact
+
+- [Your Name](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/durgeshanalyst/)
+- GitHub: [Your GitHub Profile](https://github.com/durgeshanalyst)
+
+Feel free to reach out if you have any questions or need further information.
+
+
+
