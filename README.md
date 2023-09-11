@@ -24,7 +24,7 @@ e. After doing the Root cause analysis, help the client by suggesting ways to im
 Provide your findings in an excel workbook, plot graphs & create multiple tabs as needed.
 </pre>
 # Samples
-![Dashboard](https://drive.google.com/file/d/1g0ebLBEy3bUDW_nkrol-NsdY4QgtaDSu/view?usp=drive_link)
+![Dashboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3VgeOabFPVdtVzcyVF9xQZGlWegLOVKzG2SFILJAFF6ZPfu3GsZS_4YM-S76TMCoM0vvPllBTEFFikJ_94PDOM5X5Hz79HCtVEt5sXzZAbw8lZqX8mP5dt0mn7fQGMdJchJntu6OCtI0tyLWPpvfatpW-E2NBoHvFnzZArF-knLgKQ2p9_XFaYW3d0Qg/s1370/Screenshot%202023-05-18%20131129.png)
 
 ## Introduction
 
