@@ -23,7 +23,8 @@ e. After doing the Root cause analysis, help the client by suggesting ways to im
 
 Provide your findings in an excel workbook, plot graphs & create multiple tabs as needed.
 </pre>
-
+# Samples
+![Dashboard](<Screenshot 2023-05-18 131129.png>)
 
 ## Introduction
 
@@ -55,28 +56,28 @@ You can access the dataset [here](https://drive.google.com/file/d/1-Fv55pggi0fMR
 
 ## Usage
 
-	1. Upload all the file into SSMS or My SQL
-	2. MAke sure to upload all Data sets and change in Data type if not supported.
-	3. Use concept like Group by and CTE along with window function to get BAsic Analysis.
-	4. To get more concept will be required like views or Subquery.
-	5. Join is must in this project, You have to join atlest 4 or 5 datasets together.
+- Upload all the file into SSMS or My SQL
+- MAke sure to upload all Data sets and change in Data type if not supported.
+- Use concept like Group by and CTE along with window function to get BAsic Analysis.
+- To get more concept will be required like views or Subquery.
+- Join is must in this project, You have to join atlest 4 or 5 datasets together.
 ## License
 
 This project is licensed under the [Durgesh Kumar](https://github.com/durgeshanalyst).
 
 ## Resources
-	1. SQL Query
-	2. Power BI
-	3. Excel Power Query
+- SQL Query
+- Power BI
+- Excel Power Query
 
 ## Contributors
-[Durgesh kumar](https://github.com/durgeshanalyst)
-[Kartikey baijal](https://github.com/kartikeya101)
+- Durgesh Kumar [Durgesh kumar](https://github.com/durgeshanalyst)
+- Kartikeya Baijal [Kartikey baijal](https://github.com/kartikeya101)
 ## Contact
 
-- [Your Name](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/durgeshanalyst/)
-- GitHub: [Your GitHub Profile](https://github.com/durgeshanalyst)
+- Email: [Email me](mailto:your.email@example.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/durgeshanalyst/)
+- GitHub: [GitHub Profile](https://github.com/durgeshanalyst)
 
 Feel free to reach out if you have any questions or need further information.
 
