@@ -1,4 +1,6 @@
 # Brazilian-E-Commerce-Analysis
+This project focuses on analyzing the sales trends of a Brazilian E-commerce store over the years 2016-2018. The client's objective is to understand how sales vary across different states and identify the reasons behind these trends. 
+
 ### Client Prob
  <a href="https://drive.google.com/file/d/1-Fv55pggi0fMRInxiDEz3gnOgb1aIeJL/view?usp=share_link">Dataset</a>
 ![image](https://user-images.githubusercontent.com/109127584/201036862-71b28382-705d-4072-a3c7-b556df1d31ce.png)
